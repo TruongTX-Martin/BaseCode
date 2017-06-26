@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BaseCode</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="noticeInternet">Không có kết nối mạng</string>
+    <string name="strErrorConnection">Có lỗi xảy ra trong quá trình request, kiểm tra lại kết nối</string>
+
+    <!--Leftmenu-->
+    <string name="home">Trang chủ</string>
+    <string name="information">Thông tin cá nhân</string>
+    <string name="personal">Cá nhân</string>
+    <string name="coporation">Tổ chức</string>
+    <string name="cooperate">Hợp tác</string>
+    <string name="setting">Cài đặt</string>
+    <string name="logout">Đăng xuất</string>
+
+</resources>
